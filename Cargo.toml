@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "my_rust_lib",      
+    "lsp_server"        
+]
+resolver = "2"

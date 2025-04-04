@@ -1,0 +1,15 @@
+# Rust
+/target
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.env
+
+# VS Code (if you use it)
+.vscode/
+
+# macOS
+.DS_Store
