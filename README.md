@@ -93,7 +93,7 @@ Listed in `requirements.txt`:
 
   ### 2. Clone the Repository
 ```bash
-git clone https://github.com/abhishekbprogrammer/ros2-launch-lsp.git
+git clone https://github.com/brambhattabhishek/ros2-launch-lsp.git
 cd ros2-launch-lsp
 ```
  ### 3. Set Up Python Environment
